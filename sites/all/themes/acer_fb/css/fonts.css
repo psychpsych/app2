@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Acer Foco Bold';
+    src: url('../fonts/AcerFoco_Bd.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_Bd.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_Bd.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_Bd.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_Bd.svg#b541e61e51b4860e4cebffb218995635') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Acer Foco Bold Italic';
+    src: url('../fonts/AcerFoco_BdIt.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_BdIt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_BdIt.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_BdIt.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_BdIt.svg#906e87253eead91f1a389573a38358b8') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Acer Foco Black';
+    src: url('../fonts/AcerFoco_Blk.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_Blk.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_Blk.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_Blk.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_Blk.svg#175ac8db0ec168b4d5ea892c206b6d07') format('svg'); /* Legacy iOS */
+}
+
+
+@font-face {
+    font-family: 'Acer Foco Italic';
+    src: url('../fonts/AcerFoco_It.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_It.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_It.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_It.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_It.svg#eb53a96723942c8258f20b24cb058275') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Acer Foco Light';
+    src: url('../fonts/AcerFoco_Lt.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_Lt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_Lt.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_Lt.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_Lt.svg#e1cf76dea0e5801201530c72505e668b') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Acer Foco Regular';
+    src: url('../fonts/AcerFoco_Rg.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_Rg.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_Rg.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_Rg.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_Rg.svg#b0ca8708a78cd4540bd871534f17ec6c') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Acer Foco Semibold';
+    src: url('../fonts/AcerFoco_SmBd.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_SmBd.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_SmBd.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_SmBd.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_SmBd.svg#ffcfab5b52c49ce0bfa0b3443a53c7da') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Acer Foco Semibold Italic';
+    src: url('../fonts/AcerFoco_SmBdIt.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/AcerFoco_SmBdIt.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('../fonts/AcerFoco_SmBdIt.woff') format('woff'), /* Modern Browsers */
+    url('../fonts/AcerFoco_SmBdIt.ttf')  format('truetype'), /* Safari, Android, iOS */
+    url('../fonts/AcerFoco_SmBdIt.svg#a72eee47eff4c00f2621c4b8401b12ed') format('svg'); /* Legacy iOS */
+}
+
